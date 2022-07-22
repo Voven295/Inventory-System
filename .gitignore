@@ -1,0 +1,17 @@
+.idea/
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp.csproj
+Assets/
+Inventory System.sln
+Library/
+Logs/
+Packages/
+ProjectSettings/
+UniTask.Addressables.csproj
+UniTask.DOTween.csproj
+UniTask.Editor.csproj
+UniTask.Linq.csproj
+UniTask.TextMeshPro.csproj
+UniTask.csproj
+UserSettings/
+obj/
